@@ -61,12 +61,12 @@ body:
     attributes:
       label: "Operating System"
       options:
-        - "macOS"
-        - "iOS"
-        - "Windows"
-        - "Android"
-        - "Linux"
-        - "Other"
+        - label: "macOS"
+        - label: "iOS"
+        - label: "Windows"
+        - label: "Android"
+        - label: "Linux"
+        - label: "Other"
   - type: dropdown
     id: browsers
     attributes:
