@@ -1,5 +1,6 @@
 name: Feature request
 title: Suggest an idea for this project
+description: Suggest an idea for this project
 labels:
   - enhancement
 assignees:
